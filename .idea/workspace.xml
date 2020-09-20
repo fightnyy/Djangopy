@@ -19,7 +19,14 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9d923f8e-13a1-4e39-a857-db99d866f79f" name="Default Changelist" comment="" />
+    <list default="true" id="9d923f8e-13a1-4e39-a857-db99d866f79f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/config/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/config/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pybo/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/pybo/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pybo/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/pybo/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pybo/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/pybo/views.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -86,6 +93,7 @@
       <updated>1600140700512</updated>
       <workItem from="1600140701754" duration="192000" />
       <workItem from="1600228165661" duration="803000" />
+      <workItem from="1600233972788" duration="3012000" />
     </task>
     <servers />
   </component>
@@ -102,6 +110,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="437" y="259" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600228795606">
